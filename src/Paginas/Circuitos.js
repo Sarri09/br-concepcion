@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Circuito from '../Recursos/Circuitos/Circuito-01.png';
 import TituloCircuito from '../Recursos/Circuitos/Texto-01.png';
-import Agenda from '../Recursos/Agenda/Landing BR Concepción-01.png';
+import Agenda from '../Recursos/Agenda/Landing-BR-Concepcion-01.png';
 
 const Circuitos = () => {
 
